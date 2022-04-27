@@ -1,13 +1,13 @@
 /**
  * 
  * @author causo mattia
- * @version 1
+ * @version 2
  *
  */
 public class main {
 
 	public static void main(String[] args) {
-		System.out.println("Prova 1");
+		System.out.println("Prova 2");
 
 	}
 
